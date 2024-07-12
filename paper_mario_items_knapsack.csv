@@ -1,0 +1,35 @@
+﻿Item,Purchase Price,Heal,FP,Attack,Status Enemy,Status Player,Selling Price
+Tasty Tonic,3,0,0,0,0,1,1
+Honey Syrup,5,0,1,0,0,0,1
+Mushroom,5,1,0,0,0,0,1
+Fright Mask,5,0,0,0,1,0,1
+Sleepy Sheep,8,0,0,0,1,0,2
+Fire Flower,10,0,0,1,0,0,3
+Dried Shroom,2,1,0,0,0,0,1
+Earth Quake  ,18,0,0,1,0,0,6
+Repel Cape,18,0,0,0,0,1,6
+Boo's Sheet,24,0,0,0,0,1,8
+Stop Watch,24,0,0,0,1,1,8
+Shooting Star,36,0,0,1,0,0,12
+Jammin' Jelly,120,0,1,0,0,0,40
+Ultra Shroom,120,1,0,0,0,0,40
+Thunder Bolt,10,0,0,1,0,0,3
+Volt Shroom,10,0,0,0,0,1,3
+Dizzy Dial,12,0,0,0,1,0,4
+Super Shroom ,20,1,0,0,0,0,6
+Life Shroom  ,50,1,0,0,0,0,16
+Cake Mix,6,1,0,0,0,0,2
+Gradual Syrup,15,0,1,0,0,0,5
+POW Block,5,0,0,1,0,0,1
+Courage Shell,5,0,0,0,0,1,1
+Mr. Softener,10,0,0,0,1,0,3
+Mini Mr. Mini,10,0,0,0,1,0,3
+Mystery,3,1,1,1,1,1,1
+Ice Storm,15,0,0,1,0,0,5
+HP Drain,10,0,0,1,1,0,3
+Power Punch,15,0,0,0,1,0,5
+Point Swap,5,0,0,0,1,0,1
+Thunder Rage,20,0,0,1,0,0,6
+Spite Pouch,20,0,0,0,0,1,6
+Maple Syrup,20,0,1,0,0,0,6
+Fresh Pasta,50,1,0,0,0,0,16
